@@ -35,4 +35,4 @@ Remember to route the cables through prior to screwing on the XIAO mount. you ca
 ## 200mm OV2640
 [160 DEGREE 200MM night vision](https://www.aliexpress.com/item/3256803720134565.html) 
 
-<sup>mine still had the ir filters on unfortunately, so do keep in mind sometimes ali ships them with them on and you should be prepared to remove them. Luckily the lens cap was loose on this one so it wasn't hard.</sup>
+mine still had the ir filters on unfortunately, so do keep in mind sometimes ali ships them with them on and you should be prepared to remove them. Luckily the lens cap was loose on this one so it wasn't hard. [Here](https://www.youtube.com/watch?v=QYH-FWvDbDc) is a tutorial on how to do that
