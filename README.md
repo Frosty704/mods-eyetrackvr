@@ -25,13 +25,14 @@ Remember to route the cables through prior to screwing on the XIAO mount. you ca
 ![frunk modify](https://github.com/Frosty704/mods-eyetrackvr/assets/36753686/c3a287f7-de4a-43b6-88e8-be2db1dd391c)
 
 # links
-**M4 Heat inserts for mute frunk**
+
+## M4 Heat inserts for mute frunk
 [Length 8mm, M4 (OD 6mm)50pcs](https://www.aliexpress.us/item/3256804349544912.html)
 
-**M4 Screws for mute frunk**
+## M4 Screws for mute frunk
 [12.9 Class steel, M4 20pcs, 10mm ||AND|| 12.9 Class steel, M4 20pcs, 30mm](https://www.aliexpress.com/item/2251832624557792.html)
 
-**200mm OV2640**
+## 200mm OV2640
 [160 DEGREE 200MM night vision](https://www.aliexpress.com/item/3256803720134565.html) 
 
 <sup>mine still had the ir filters on unfortunately, so do keep in mind sometimes ali ships them with them on and you should be prepared to remove them. Luckily the lens cap was loose on this one so it wasn't hard.</sup>
