@@ -13,7 +13,18 @@ It's the recommended one for ETVR because it supposedly has an MTT chip. Recomme
 
 ![hubcarriage](https://github.com/Frosty704/mods-eyetrackvr/assets/36753686/d6a50444-6e79-45fa-8d2e-a04109931a8b)
 
+## Modified MUTE DEVFrunk 
+[**ALL CREDITS GO TO MUTEtheCyberwolf for the original frunk**](https://github.com/MUTEtheCyberwolf/VALVE-INDEX-DEV-Frunk-1.0)
 
+I have slightly modified MUTE's dev frunk by adding small cutouts at the top, allowing for 0.5mm ribbon cables, and a slightly bigger hole for the [V4 LED Kit](https://store.eyetrackvr.dev/products/v4-mini-fully-solderless-kit) power cables
+
+This works best for if you are routing the connectors through the index itself via the gaps at the top or sides. Check out [Physics-Dude's repo](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW#cable-routing) for a little more information on the cable routing
+
+This makes for a cleaner setup with no exposed connectors, without any soldering! 
+
+Remember to route the cables through prior to screwing on the XIAO mount. you can find it in [MUTE's repo](https://github.com/MUTEtheCyberwolf/VALVE-INDEX-DEV-Frunk-1.0)
+
+![frunk modify](https://github.com/Frosty704/mods-eyetrackvr/assets/36753686/c3a287f7-de4a-43b6-88e8-be2db1dd391c)
 
 # links
 **M4 Heat inserts for mute frunk**
