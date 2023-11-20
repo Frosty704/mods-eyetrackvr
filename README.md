@@ -6,6 +6,8 @@ The [LDLrui case](https://github.com/Frosty704/mods-eyetrackvr/blob/main/LDLrui%
 
 It's the recommended one for ETVR because it supposedly has an MTT chip. Recommended use case is to stick it to the bridge of MUTE's facial tracker bridge with double sided adhesive/hotglue/superglue or anything similar.
 
+Remember to route the cable through the hole first (you may need to push it through a little, tight fit) before snapping the hub in.
+
 
 ![hubcarriage](https://github.com/Frosty704/mods-eyetrackvr/assets/36753686/d6a50444-6e79-45fa-8d2e-a04109931a8b)
 
