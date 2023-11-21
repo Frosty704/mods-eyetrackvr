@@ -50,7 +50,7 @@ they're a bit expensive for what they are, but the cleanliness makes it worth it
 
 <img src="https://cdn.discordapp.com/attachments/343215063907434496/1176289984249069649/IMG_5618.jpg" width="640" height="">
 
-<img src="https://cdn.discordapp.com/attachments/343215063907434496/1176371961815900180/IMG_5640.jpg" width="640" height="">
+<img src="https://cdn.discordapp.com/attachments/343215063907434496/1176412913100144711/IMG_5652.jpg" width="640" height="">
 
 
 
