@@ -44,8 +44,13 @@ mine still had the ir filters on unfortunately, so do keep in mind sometimes ali
 
 super short usb c cables you can buy! i got the angled end but any male endings of your choosing should work fine
 
+USB Hub im using is the [LDLrui 4 port usb c hub](https://www.amazon.com/LDLrui-4-Port-Splitter-Multiport-Adapter/dp/B09NDQGSPR)
+
 they're a bit expensive for what they are, but the cleanliness makes it worth it i think
 
-<img src="https://cdn.discordapp.com/attachments/343215063907434496/1176289984249069649/IMG_5618.jpg" width="1280" height="720">
+<img src="https://cdn.discordapp.com/attachments/343215063907434496/1176289984249069649/IMG_5618.jpg" width="640" height="">
+
+<img src="https://cdn.discordapp.com/attachments/343215063907434496/1176371961815900180/IMG_5640.jpg" width="640" height="">
+
 
 
