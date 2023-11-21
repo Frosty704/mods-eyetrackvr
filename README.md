@@ -48,7 +48,7 @@ USB Hub im using is the [LDLrui 4 port usb c hub](https://www.amazon.com/LDLrui-
 
 they're a bit expensive for what they are, but the cleanliness makes it worth it i think
 
-<img src="https://cdn.discordapp.com/attachments/343215063907434496/1176289984249069649/IMG_5618.jpg" width="640" height="">
+I recommend plugging the angled end into your esp32
 
 <img src="https://cdn.discordapp.com/attachments/343215063907434496/1176412913100144711/IMG_5652.jpg" width="640" height="">
 
