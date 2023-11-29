@@ -4,7 +4,7 @@
 ## LDLrui USB-C Hub Case
 The [LDLrui case](https://github.com/Frosty704/mods-eyetrackvr/blob/main/LDLrui%20case.stl) is a small carriage with a cutout for the wire for [this USB hub.](https://www.amazon.com/dp/B09NDQGSPR) It snaps into the case securely so no adhesive needed! 
 
-Alternatively, an addon to screw into the [existing facial tracker bridge that has the case already attached](https://github.com/Frosty704/mods-eyetrackvr/blob/main/bridge_usb_add_on.stl), STL made by zepp! 
+Alternatively, an addon to screw into the [existing facial tracker bridge that has the case already attached](https://github.com/Frosty704/mods-eyetrackvr/blob/main/bridge_usb_add_on_by_zepp.stl), STL made by zepp! 
 
 It's the recommended one for ETVR because it supposedly has an MTT chip. Recommended use case is to stick it to the bridge of MUTE's facial tracker bridge with double sided adhesive/hotglue/superglue or anything similar.
 
