@@ -10,8 +10,14 @@ It's the recommended one for ETVR because it supposedly has an MTT chip. Recomme
 
 Remember to route the cable through the hole first (you may need to push it through a little, tight fit) before snapping the hub in.
 
-
 ![hubcarriage](https://github.com/Frosty704/mods-eyetrackvr/assets/36753686/d6a50444-6e79-45fa-8d2e-a04109931a8b)
+
+## Modified MUTE DEVFrunk Bridge
+
+Just the MUTE face tracker bridge poorly merged in blender, removing the need for adhesive to mount the hub
+
+![hubbridge](https://i.imgur.com/6cicWIF.jpg)
+
 
 ## Modified MUTE DEVFrunk 
 [**ALL CREDITS GO TO MUTEtheCyberwolf for the original frunk**](https://github.com/MUTEtheCyberwolf/VALVE-INDEX-DEV-Frunk-1.0)
