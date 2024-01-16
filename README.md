@@ -6,7 +6,7 @@ The [LDLrui case](https://github.com/Frosty704/mods-eyetrackvr/blob/main/LDLrui%
 
 Alternatively, an addon to screw into the [existing facial tracker bridge that has the case already attached](https://github.com/Frosty704/mods-eyetrackvr/blob/main/bridge_usb_add_on_by_zepp.stl), STL made by zepp! 
 
-It's the recommended one for ETVR because it supposedly has an MTT chip. Recommended use case is to stick it to the bridge of MUTE's facial tracker bridge with double sided adhesive/hotglue/superglue or anything similar.
+It's the recommended one for ETVR because it has an MTT chip
 
 Remember to route the cable through the hole first (you may need to push it through a little, tight fit) before snapping the hub in.
 
@@ -14,7 +14,7 @@ Remember to route the cable through the hole first (you may need to push it thro
 
 ## Modified MUTE DEVFrunk Bridge
 
-Just the MUTE face tracker bridge poorly merged in blender, removing the need for adhesive to mount the hub
+Just the MUTE face tracker bridge and hub case poorly merged in blender, removing the need for adhesive to mount the hub
 
 ![hubbridge](https://i.imgur.com/6cicWIF.jpg)
 
